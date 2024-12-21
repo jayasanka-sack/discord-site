@@ -1,0 +1,2 @@
+Hello, this is Bob's signed message.
+Tampered content
